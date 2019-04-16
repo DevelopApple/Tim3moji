@@ -3,7 +3,7 @@
 //Preferences stuff
 static bool enabled = true;
 //list of emojis
-static NSString *yakam = @"🌗";
+static NSString *yakam = @"☀️";
 
 static NSString *dwam = @"🔅";
 
@@ -11,7 +11,7 @@ static NSString *seyam = @"🔆";
 
 static NSString *chwaram = @"✨";
 
-static NSString *penjam = @"🌙";
+static NSString *penjam = @"🌛";
 
 //the emojis that have been set above, nearly have no rule in the tweak, they are just like placeholders
 
