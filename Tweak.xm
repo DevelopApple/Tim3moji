@@ -5,7 +5,7 @@ static bool enabled = true;
 //list of emojis
 static NSString *yakam = @"☀️";
 
-static NSString *dwam = @"🔅";
+static NSString *dwam = @"☀️";
 
 static NSString *seyam = @"🔆";
 
